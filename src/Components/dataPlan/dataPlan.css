@@ -1,0 +1,19 @@
+.MTN {
+  background-color: #f7c217;
+}
+
+.GLO {
+  background-color: #1dd924;
+}
+
+.AIRTEL {
+  background-color: #8e0707;
+}
+
+.NINEMOBILE {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(green), to(black));
+  background-image: linear-gradient(green, black);
+}
+
+/*linear-gradient(60deg, #f7c217, #f7c217)*/
+/*# sourceMappingURL=dataPlan.css.map */
