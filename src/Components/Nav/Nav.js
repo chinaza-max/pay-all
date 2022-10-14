@@ -48,12 +48,8 @@ useEffect(()=>{
                         <li className="nav-item">
                         <a className="page-scroll" href="#services">Services</a>
                         </li>
-
                         <li className="nav-item">
-                        <a className="page-scroll" href="#pricing">Pricing</a>
-                        </li>
-                        <li className="nav-item">
-                        <a className="page-scroll" href="#contact">Contact</a>
+                        <a className="page-scroll" href="#plan">Plan</a>
                         </li>
                     </ul>
                     </div>

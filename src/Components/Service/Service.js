@@ -11,10 +11,7 @@ export default function Service() {
             <div className="content">
               <h6>Services</h6>
               <h2 className="fw-bold">Our Best Services</h2>
-              <p>
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered alteration in some form.
-              </p>
+              
             </div>
           </div>
         </div>
@@ -25,13 +22,41 @@ export default function Service() {
         <div className="col-lg-4 col-md-6">
           <div className="single-services">
             <div className="service-icon">
-              <i className="lni lni-capsule"></i>
+            <ion-icon name="phone-portrait-outline"></ion-icon>
             </div>
             <div className="service-content">
-              <h4>Refreshing Design</h4>
+              <h4>Airtime & Data</h4>
+              <p>             
+                Airtime & Data
+                Buy airtime recharge and data top-up for all major network operators at much cheaper rate.
+              </p>
+            </div>
+          </div>
+        </div>
+      
+        <div className="col-lg-4 col-md-6">
+          <div className="single-services">
+            <div className="service-icon">
+            <ion-icon name="tv-outline"></ion-icon>
+            </div>
+            <div className="service-content">
+              <h4>TV Subscriptions</h4>
               <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
+                Renew your subscription for DStv, Startimes, GOtv and other providers at a reduced price.
+              </p>
+            </div>
+          </div>
+        </div>
+       
+        <div className="col-lg-4 col-md-6">
+          <div className="single-services">
+            <div className="service-icon">
+            <ion-icon name="bonfire-outline"></ion-icon>
+            </div>
+            <div className="service-content">
+              <h4>Electricity Bills</h4>
+              <p>
+              Buy electricity units or pay postpaid electricity bills accross all DISCOs at a cheaper rate.
               </p>
             </div>
           </div>
@@ -39,69 +64,12 @@ export default function Service() {
         <div className="col-lg-4 col-md-6">
           <div className="single-services">
             <div className="service-icon">
-              <i className="lni lni-bootstrap"></i>
+            <ion-icon name="card-outline"></ion-icon>
             </div>
             <div className="service-content">
-              <h4>Solid Bootstrap 5</h4>
+              <h4>Bill Payments</h4>
               <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-4 col-md-6">
-          <div className="single-services">
-            <div className="service-icon">
-              <i className="lni lni-shortcode"></i>
-            </div>
-            <div className="service-content">
-              <h4>100+ Components</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-4 col-md-6">
-          <div className="single-services">
-            <div className="service-icon">
-              <i className="lni lni-dashboard"></i>
-            </div>
-            <div className="service-content">
-              <h4>Speed Optimized</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-4 col-md-6">
-          <div className="single-services">
-            <div className="service-icon">
-              <i className="lni lni-layers"></i>
-            </div>
-            <div className="service-content">
-              <h4>Fully Customizable</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-4 col-md-6">
-          <div className="single-services">
-            <div className="service-icon">
-              <i className="lni lni-reload"></i>
-            </div>
-            <div className="service-content">
-              <h4>Regular Updates</h4>
-              <p>
-                Lorem ipsum dolor sit amet, adipscing elitr, sed diam nonumy
-                eirmod tempor ividunt labor dolore magna.
+              Pay your utility bills and more from the comfort of your homes or on-the-fly, all at reduced price.
               </p>
             </div>
           </div>

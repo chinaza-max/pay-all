@@ -10,11 +10,9 @@ export default function callAction() {
                     <div className="inner-content">
                     <h2>We love to make perfect <br />solutions for your business</h2>
                     <p>
-                        Why I say old chap that is, spiffing off his nut cor blimey
-                        guvnords geeza<br />
-                        bloke knees up bobby, sloshed arse William cack Richard. Bloke
-                        fanny around chesed of bum bag old lost the pilot say there
-                        spiffing off his nut.
+                        Will try to bring you  all SME data plan<br />
+                        Electricity Bills, TV Subscriptions,Bill Payments
+                        at best and affordable rate.
                     </p>
                     <div className="light-rounded-buttons">
                         <a href="/#" className="btn primary-btn-outline">Get Started</a>

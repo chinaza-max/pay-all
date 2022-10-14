@@ -3,7 +3,7 @@ import "./dataPlan.css"
 
 export default function dataPlan() {
   return (
-    <section id="pricing" className="pricing-area pricing-fourteen">
+    <section id="plan" className="pricing-area pricing-fourteen">
     <div className="section-title-five">
       <div className="container">
         <div className="row">
